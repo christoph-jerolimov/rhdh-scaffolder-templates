@@ -1,0 +1,6 @@
+dist
+dist-dynamic
+dist-types
+coverage
+.vscode
+.eslintrc.js

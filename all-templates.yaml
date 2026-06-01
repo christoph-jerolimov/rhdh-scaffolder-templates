@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  namespace: rhdh-scaffolder-templates
+  name: all-templates
+  title: rhdh-scaffolder-templates - all templates
+spec:
+  targets:
+    - ./all-backstage-templates.yaml
+    - ./all-demo-templates.yaml

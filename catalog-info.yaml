@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  namespace: rhdh-scaffolder-templates
+  name: rhdh-scaffolder-templates
+spec:
+  type: demo
+  owner: user:default/christoph-jerolimov
+  lifecycle: experimental
