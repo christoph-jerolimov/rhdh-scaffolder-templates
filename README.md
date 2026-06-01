@@ -1,0 +1,1 @@
+# rhdh-scaffolder-templates
